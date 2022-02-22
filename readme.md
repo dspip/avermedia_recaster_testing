@@ -8,7 +8,7 @@
 
 + issue 1:
 
-    if video does not play, check try out gstreamer's bash command, if stuck like in this image:
+    if video does not play, try out gstreamer's bash command, if stuck like in this image:
 
     <img src="./imgs/issue1.png"></img>
 
@@ -82,7 +82,7 @@ gst-launch-1.0 rtspsrc location="rtsp://172.25.0.59:6000/live/1001.sdp" latency=
 
 ### h265
 
-+ command to play in videohandler (all h264 related):
++ command to play in videohandler (all h265 related):
 
 ```json
 {
